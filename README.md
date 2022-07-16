@@ -1,2 +1,2 @@
 # Tip-Calculator-Easy
-Application : https://replit.com/@YOGA-NARASIMHAN/Tip-Calculator
+Application : https://Tip-Calculator.yoga-narasimhan.repl.co
